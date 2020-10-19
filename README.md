@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">A passionate Software Engineer from Lagos Nigeria</h3>
+<h1 >Hi 👋, I'm Benjamin also known as **Codeblooded**</h1>
+<h3 >A passionate Software Engineer from Lagos Nigeria</h3>
 
 <p align="left"> <a href="https://twitter.com/benjamin_alamu" target="blank"><img src="https://img.shields.io/twitter/follow/benjamin_alamu?logo=twitter&style=for-the-badge" alt="benjamin_alamu" /></a> </p>
 
