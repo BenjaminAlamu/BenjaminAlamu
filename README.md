@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **oluwaseunalamu@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/BenjaminAlamu](http://bit.ly/BenjaminAlamu)
+- 📄 Know about my experiences [http://bit.ly/BenjaminAlamu](here)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
