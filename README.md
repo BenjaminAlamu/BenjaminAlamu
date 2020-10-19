@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Giveaway.ng](https://dogiveaway.ng/) and [Allmywishes.app](https://allmywishes.app/)
 - 🌱 I’m currently learning **React, Docker and Kubernetes**
 - 👯 I’m looking to collaborate on **Vue Projects**
-- 📝 I regulary write articles on [here](https://medium.com/@Benjamin_Alamu)
+- 📝 I regulary write articles [here](https://medium.com/@Benjamin_Alamu)
 - 💬 Ask me about **Vue,Node and Tailwind**
 - 📫 How to reach me **oluwaseunalamu@gmail.com**
 - 📄 Know about my experiences [here](http://bit.ly/BenjaminAlamu)
